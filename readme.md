@@ -1,4 +1,4 @@
-##2. Considere um vetor não ordenado com capacidade igual a 7 elementos contendo
+# 2. Considere um vetor não ordenado com capacidade igual a 7 elementos contendo
 em seu interior a sequência “S,A,T,C”. Responda:
 
 a. Qual o nome do atributo responsável pelo controle de inserções da sequência
@@ -26,7 +26,7 @@ Resposta: if valor == valores[i]
 
 
 
-##3. Considere um vetor não ordenado com capacidade igual a 5 elementos contendo
+# 3. Considere um vetor não ordenado com capacidade igual a 5 elementos contendo
 em seu interior a sequência 5,4,3,2. Faça:
 
 a. O desenho do vetor contendo o tamanho e a sequência descrita no enunciado;
